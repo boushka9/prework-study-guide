@@ -10,11 +10,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes listed in each section. For suggestions on what to study first, open the Chrome DevTools (an extremly useful development tool for all coders) by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A panel should open either below or to the side of the webpage in the browser. Click on 'Console'. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
-
-## Credits
-
-N/A
+To use this Prework Study Guide, you can review the notes listed in each section. For suggestions on what to study first, open the Chrome DevTools (an extremly useful development tool for all coders!) by pressing Command+Option+I (macOS),  Control+Shift+I (Windows), or right clicking and choosing 'Inspect' . A panel should open either below or to the side of the webpage in the browser. Click on 'Console'. There you will see a list of topics to study for prework, along with suggestions on which topic to study first. To view new suggestions, refresh the page.
 
 ## License
 
