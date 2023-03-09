@@ -14,4 +14,4 @@ To use this Prework Study Guide, you can review the notes listed in each section
 
 ## License
 
-Please refer to the LICENSE in the repo.
+MIT.
